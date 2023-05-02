@@ -32,5 +32,3 @@
 
 <a href="https://www.linkedin.com/in/boris-alexander-masalyka-7b57b4234/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-<a href="borismasalyka2015@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
