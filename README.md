@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; My name is Boris and I am a 22-year-old aspiring Full Stack developer from Cordoba, Argentina. My passion for technology and software development began at a young age and has only continued to grow since then. I am constantly seeking new challenges and opportunities to expand my skills and knowledge in the field.
+- 🤔 &nbsp; My name is Boris and I am a 22-year-old aspiring Ux/Ui designer and Front-End developer from Cordoba, Argentina. My passion for technology and software development began at a young age and has only continued to grow since then. I am constantly seeking new challenges and opportunities to expand my skills and knowledge in the field.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
