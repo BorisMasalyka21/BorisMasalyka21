@@ -3,13 +3,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 👋 &nbsp; Hi! I'm Boris, a UX/UI designer and Full Stack developer with a focus on Frontend. I’m passionate about building seamless and efficient digital experiences by combining intuitive design with clean, scalable code.
-- 💡 &nbsp; My tech stack includes:
-  - 🔹 Frontend: React, TypeScript, JavaScript, Tailwind
-  - 🔹 Backend: Python, FastAPI, Django, Django REST
-  - 🔹 Databases: PostgreSQL, MySQL
-  - 🔹 Tools: Postman, Figma, Photoshop, and more
-- 🚀 &nbsp; I'm always looking for new challenges and opportunities to grow, explore innovative technologies, and refine the connection between design and development.
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
@@ -29,6 +22,9 @@
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+- 🚀 &nbsp; I'm always looking for new challenges and opportunities to grow, explore innovative technologies, and refine the connection between design and development.
+
+
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
